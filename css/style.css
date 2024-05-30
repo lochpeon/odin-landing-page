@@ -11,3 +11,28 @@
     box-sizing: border-box;
     font-family: Roboto, sans-serif;
 }
+
+.hero {
+    background-color: var(--midnight);
+}
+
+.hero-main-headtext {
+    color: var(--saltpan);
+    font-size: 48px;
+}
+
+.hero-main-subtext,
+.hero-header-link {
+    color: var(--solitude);
+    font-size: 18px;
+}
+
+.hero-header-logo {
+    color: var(--saltpan);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.hero-main-button {
+    background-color: var(--dodger-blue);
+}
