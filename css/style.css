@@ -36,3 +36,7 @@
 .hero-main-button {
     background-color: var(--dodger-blue);
 }
+
+ul {
+    list-style-type: none;
+}
