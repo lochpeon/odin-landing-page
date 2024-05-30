@@ -31,6 +31,7 @@
     color: var(--saltpan);
     font-size: 24px;
     font-weight: bold;
+    margin-right: auto;
 }
 
 .hero-main-button {
@@ -39,4 +40,9 @@
 
 ul {
     list-style-type: none;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 24px;
 }
