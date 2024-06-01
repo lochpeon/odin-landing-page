@@ -60,3 +60,11 @@ ul {
 .hero-main > * {
     flex: 1;
 }
+
+.hero-main-right {
+    background-color: var(--solitude);
+    color: var(--midnight);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
