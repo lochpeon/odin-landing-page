@@ -27,7 +27,8 @@ button {
     align-content: center;
 }
 
-section.hero > * {
+section.hero > *,
+section.carousel > * {
     max-width: 1000px;
 }
 
@@ -93,6 +94,12 @@ ul {
 }
 
 /* Carousel */
+section.carousel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 h2.carousel-heading {
     color: var(--midnight);
     font-size: 36px;
