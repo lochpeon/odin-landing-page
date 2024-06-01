@@ -120,4 +120,5 @@ h2.carousel-heading {
 p.carousel-con-item-text {
     color: var(--midnight);
     opacity: 0.7;
+    text-align: center;
 }
