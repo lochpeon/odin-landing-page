@@ -170,4 +170,5 @@ p.quote-author {
 .cta-con {
     background-color: var(--dodger-blue);
     max-width: 1000px;
+    width: 100%;
 }
