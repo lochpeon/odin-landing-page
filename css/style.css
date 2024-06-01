@@ -98,6 +98,8 @@ section.carousel {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 40px 0 80px;
+    gap: 40px;
 }
 
 h2.carousel-heading {
@@ -108,6 +110,7 @@ h2.carousel-heading {
 
 .carousel-con {
     display: flex;
+    gap: 40px;
 }
 
 .carousel-con-item {
@@ -115,6 +118,7 @@ h2.carousel-heading {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    gap: 16px;
 }
 
 .carousel-con-item-figure {
