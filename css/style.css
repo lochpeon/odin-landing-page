@@ -68,7 +68,7 @@ ul {
 }
 
 .hero-main > * {
-    flex: 1;
+    flex: 50%;
 }
 
 .hero-main-right {
