@@ -16,6 +16,10 @@
     background-color: var(--midnight);
 }
 
+section.hero > * {
+    max-width: 1000px;
+}
+
 .hero-main-headtext {
     color: var(--saltpan);
     font-size: 48px;
