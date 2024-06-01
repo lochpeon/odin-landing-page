@@ -28,7 +28,8 @@ button {
 }
 
 section.hero > *,
-section.carousel > * {
+section.carousel > *,
+section.quote > * {
     max-width: 1000px;
 }
 
@@ -141,6 +142,9 @@ p.carousel-con-item-text {
 /* Quote */
 section.quote {
     background-color: var(--solitude);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 div.quote-maintext {
