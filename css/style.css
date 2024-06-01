@@ -191,6 +191,7 @@ section.cta {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 h2.cta-con-headtext {
