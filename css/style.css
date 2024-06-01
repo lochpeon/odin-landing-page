@@ -201,3 +201,11 @@ h2.cta-con-headtext {
 p.cta-con-subtext {
     color: var(--solitude);
 }
+
+button.cta-con-button {
+    background-color: inherit;
+    color: var(--saltpan);
+    border: 2px solid var(--saltpan);
+    border-radius: 16px;
+    padding: 8px 36px;
+}
