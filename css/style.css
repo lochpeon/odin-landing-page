@@ -167,6 +167,14 @@ p.quote-author {
 }
 
 /* CTA */
+section.cta {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0;
+}
+
 .cta-con {
     background-color: var(--dodger-blue);
     max-width: 1000px;
