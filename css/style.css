@@ -191,3 +191,11 @@ section.cta {
     display: flex;
     justify-content: space-between;
 }
+
+h2.cta-con-headtext {
+    color: var(--saltpan);
+}
+
+p.cta-con-subtext {
+    color: var(--solitude);
+}
