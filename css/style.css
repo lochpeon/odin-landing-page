@@ -87,3 +87,10 @@ ul {
     justify-content: center;
     align-items: center;
 }
+
+/* Carousel */
+h2.carousel-heading {
+    color: var(--midnight);
+    font-size: 36px;
+    font-weight: bolder;
+}
