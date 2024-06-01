@@ -99,6 +99,17 @@ h2.carousel-heading {
     font-weight: bolder;
 }
 
+.carousel-con {
+    display: flex;
+}
+
+.carousel-con-item {
+    max-width: 175px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
 .carousel-con-item-figure {
     border: 5px solid var(--dodger-blue);
     height: 175px;
