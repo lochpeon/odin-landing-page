@@ -95,6 +95,13 @@ h2.carousel-heading {
     font-weight: bolder;
 }
 
+.carousel-con-item-figure {
+    border: 5px solid var(--dodger-blue);
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+}
+
 p.carousel-con-item-text {
     color: var(--midnight);
     opacity: 0.7;
