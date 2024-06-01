@@ -26,6 +26,10 @@ section.hero > * {
     max-width: 1000px;
 }
 
+.hero-header {
+    margin: 24px 0;
+}
+
 .hero-main-headtext {
     color: var(--saltpan);
     font-size: 48px;
@@ -65,6 +69,7 @@ ul {
 
 .hero-main {
     display: flex;
+    margin: 112px 0;
 }
 
 .hero-main > * {
