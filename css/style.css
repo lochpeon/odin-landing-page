@@ -163,4 +163,5 @@ p.quote-author {
     font-weight: bold;
     font-size: 150%;
     text-align: right;
+    padding-right: 24px;
 }
