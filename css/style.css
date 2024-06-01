@@ -149,3 +149,9 @@ div.quote-maintext {
     font-weight: italic;
     color: var(--midnight);
 }
+
+p.quote-author {
+    font-weight: bold;
+    font-size: 125%;
+    text-align: right;
+}
