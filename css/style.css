@@ -71,6 +71,10 @@ ul {
     flex: 50%;
 }
 
+.hero-main-left {
+    padding-right: 48px;
+}
+
 .hero-main-right {
     background-color: var(--solitude);
     color: var(--midnight);
