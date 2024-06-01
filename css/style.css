@@ -46,3 +46,11 @@ ul {
     align-items: center;
     gap: 24px;
 }
+
+.hero-main {
+    display: flex;
+}
+
+.hero-main > * {
+    flex: 1;
+}
