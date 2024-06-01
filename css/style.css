@@ -101,8 +101,8 @@ h2.carousel-heading {
 
 .carousel-con-item-figure {
     border: 5px solid var(--dodger-blue);
-    height: 150px;
-    width: 150px;
+    height: 175px;
+    width: 175px;
     border-radius: 5px;
 }
 
