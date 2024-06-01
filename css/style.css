@@ -209,3 +209,11 @@ button.cta-con-button {
     border-radius: 16px;
     padding: 8px 36px;
 }
+
+/* Footer */
+section.footer {
+    background-color: var(--midnight);
+    color: var(--solitude);
+    padding: 24px 0;
+    text-align: center;
+}
