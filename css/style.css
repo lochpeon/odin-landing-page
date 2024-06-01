@@ -142,3 +142,10 @@ p.carousel-con-item-text {
 section.quote {
     background-color: var(--solitude);
 }
+
+div.quote-maintext {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: italic;
+    color: var(--midnight);
+}
